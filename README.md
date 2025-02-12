@@ -14,7 +14,7 @@ This project was carried out to proivde an insight on empoyee data in the organi
 
 **Project Summary:**
 
-This project was carried out to proivde an insight on empoyee data in the organization sumarizing their demographic information and status in the organization.
+This project was carried out to proivde sales insight for a super market.
 
 **Dashboard overview:**
 ![SuperMarketSales](SuperMarketSales.png)
